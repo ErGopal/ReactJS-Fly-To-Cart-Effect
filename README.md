@@ -3,6 +3,13 @@ An React.js demo of adding items to cart with fly to cart animation
 
 ![](./fly-to-cart.gif)
 
+# Features
+
+  * Fly to cart Animation
+  * Range bar filtering
+  * Price range filter
+  * Color filter
+    
 # Changelog
 
   * Initial Build
