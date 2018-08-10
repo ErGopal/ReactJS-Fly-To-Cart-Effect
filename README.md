@@ -1,4 +1,4 @@
-# Fly to Cart
+# ReactJS fly to cart effect
 An React.js demo of adding items to cart with fly to cart animation
 
 ![](./fly-to-cart.gif)
